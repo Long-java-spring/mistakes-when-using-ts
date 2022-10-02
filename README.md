@@ -3,6 +3,7 @@ Some mistakes when using typescript
 
 ## I. General Types
 
+
 **Don’t** ever use the types Number, String, Boolean, Symbol, or Object These types refer 
 to non-primitive boxed objects that are almost never used appropriately in JavaScript code.
 ```
